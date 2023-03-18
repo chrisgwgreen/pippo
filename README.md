@@ -25,6 +25,6 @@ Disclaimer: this shouldn't burn down your lovely new house XD
 
 ### Edit the Code 
 
-To edit the code you need to download the [Arduino IDE](https://www.arduino.cc/en/software). If you want to explore more advanced tools, look into [PLatformIO](https://platformio.org/). It runs in Visual Studio and allows for a lot more project structure. 
+To edit the code you need to download the [Arduino IDE](https://www.arduino.cc/en/software). If you want to explore more advanced tools, look into [PlatformIO](https://platformio.org/). It runs in Visual Studio and allows for a lot more project structure. 
 
 The libraries needed include: [fauxmo](https://github.com/n8henrie/fauxmo) and [wifiManager](https://github.com/tzapu/WiFiManager)
