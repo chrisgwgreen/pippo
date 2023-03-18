@@ -9,7 +9,7 @@
 
 ## CONGRATULATIONS DAVI!!!
 ### Welcome to the nerd club (again).
-When Moni suggested getting you a present for your gradution (well done btw :D) I thought I'd make one instead and open up another super awesome world of nerdiness/coolness (to us... not them :P)!
+When Moni suggested getting you a present for your gradution (well done btw 🤓) I thought I'd make one instead and open up another super awesome world of nerdiness/coolness (to us... not them 🤫)!
 
 The code below controls an [ESP8266](https://www.wemos.cc/en/latest/d1/d1_mini.html) (an [Arduino](https://www.arduino.cc/) compatible microcontroller) thats written in C++ (kinda... they made thier own language to make things easier but its very C++ like).
 
@@ -17,11 +17,11 @@ To run it, follow these steps:
 
 1. It should start by initialising as an access point for you to give it your wifi credentials (it should be called Pippo or what ever is #define NAME).
 2. You need to use the Alexa app to connect the device to your network (it should be called Pippo or what ever is #define ID_RELAY)
-3. Then say "Alexa, pippo on/off" and hope it doesn't blow up XD
+3. Then say "Alexa, pippo on/off" and hope it doesn't blow up 💣💥
 
 Well done for graduating good sir!! I know from experience how hard it is to get there and I don't doubt there is a lot of awesome projects to come!
 
-Disclaimer: this shouldn't burn down your lovely new house XD
+Disclaimer: this shouldn't burn down your lovely new house 🤭
 
 ### Edit the Code 
 
